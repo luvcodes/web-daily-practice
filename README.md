@@ -7,3 +7,4 @@ This is for front-end and web-service daily practice repository.
 2022.7.28 背景颜色渐变  导航栏  登陆注册界面  卡片点击全屏  商品飞进购物车  视差  图片滚动  图片响应悬停效果  
 2022.7.30 侧边动画navigation bar  
 2022.8.1 可以拖动的音量条  人物头像点击切换文本升腾  lime青柠搜索灵感来源  天气动画icons  
+2022.8.2 google charts: bar chart, line graph, pie chart, scater plots  
