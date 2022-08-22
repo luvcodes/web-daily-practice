@@ -8,6 +8,6 @@ This is for front-end and web-service daily practice repository.
 2022.7.30 侧边动画navigation bar  
 2022.8.1 可以拖动的音量条  人物头像点击切换文本升腾  lime青柠搜索灵感来源  天气动画icons  
 2022.8.2 google charts: bar chart, line graph, pie chart, scater plots  
-2022.8.3 floating bubbtle动画
+2022.8.3 floating bubbtle动画   
 2022.8.19 detect browser(检测当前html文件运行在哪个浏览器上)   password hint(输入密码时提示需要的密码类型)   
 2022.8.22 first vue project(第一个vue项目)
