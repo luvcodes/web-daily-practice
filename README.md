@@ -10,4 +10,5 @@ This is for front-end and web-service daily practice repository.
 2022.8.2 google charts: bar chart, line graph, pie chart, scater plots  
 2022.8.3 floating bubbtle动画   
 2022.8.19 detect browser(检测当前html文件运行在哪个浏览器上)   password hint(输入密码时提示需要的密码类型)   
-2022.8.22 first vue project(第一个vue项目)
+2022.8.22 first vue project(第一个vue项目)   
+2022.8.23 second vue project(css formatting not operating)   
